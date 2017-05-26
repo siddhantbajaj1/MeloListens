@@ -1,0 +1,22 @@
+linking to a track via ID:
+
+<a href=http:\\localhost\MeloListens\MeloListens\opentrack.asp?TrackID=<%=---varName---%>>LINK</a>
+
+linking to track via name:
+
+
+
+linking to a album via ID:
+
+
+
+linking to album via name:
+
+
+linking to a artist via ID:
+
+
+
+linking to artist via name:
+
+
